@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f06a0a8-7aba-4818-bc45-48f776a65bdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27N6ClG569yvUX7JPoqzXSmAXs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f06a0a8-7aba-4818-bc45-48f776a65bdd" name="Default Changelist" comment="" />
+      <created>1649148070676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649148070676</updated>
+      <workItem from="1649148072613" duration="2492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1845" height="279" key="GridCell.Tab.0.bottom" timestamp="1649150564874">
+      <screen x="0" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1845" height="279" key="GridCell.Tab.0.bottom/0.27.1868.1053@0.27.1868.1053" timestamp="1649150564874" />
+    <state width="1845" height="279" key="GridCell.Tab.0.center" timestamp="1649150564873">
+      <screen x="0" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1845" height="279" key="GridCell.Tab.0.center/0.27.1868.1053@0.27.1868.1053" timestamp="1649150564873" />
+    <state width="1845" height="279" key="GridCell.Tab.0.left" timestamp="1649150564872">
+      <screen x="0" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1845" height="279" key="GridCell.Tab.0.left/0.27.1868.1053@0.27.1868.1053" timestamp="1649150564872" />
+    <state width="1845" height="279" key="GridCell.Tab.0.right" timestamp="1649150564873">
+      <screen x="0" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1845" height="279" key="GridCell.Tab.0.right/0.27.1868.1053@0.27.1868.1053" timestamp="1649150564873" />
+  </component>
+</project>
